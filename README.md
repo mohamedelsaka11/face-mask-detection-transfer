@@ -38,7 +38,7 @@ The dataset was sourced from Kaggle:
 
 The training and validation accuracy/loss curves:
 
-![Accuracy and Loss Curves](images/Acc.png.png)
+![Accuracy and Loss Curves](images/Acc.png)
 
 ---
 
